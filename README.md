@@ -2,8 +2,9 @@
 
 Html &amp; CSS computer science information website.
 
-<p>**Author:** Ali Al Najjar</p>
-<p>**Date:** 15/2/2023</p>
+**Author:** Ali Al Najjar
+
+**Date:** 15/2/2023
 
 I used in this website the following languages:
   + HTML
